@@ -78,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="312.1585"
-     inkscape:cy="297.78468"
+     inkscape:zoom="1.4"
+     inkscape:cx="369.72174"
+     inkscape:cy="309.41297"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -97,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -160,7 +160,7 @@
          id="tspan3732"
          x="30.335093"
          y="170.98242"
-         style="stroke-width:0.26458332">LearnHub - Share your leaves</tspan></text>
+         style="stroke-width:0.26458332">LeavesHub - Share your leaves</tspan></text>
     <g
        id="g4557"
        transform="translate(-4.256567,2.457529)" />
@@ -425,12 +425,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.93884921px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:0.09847123"
-       x="128.23038"
+       x="125.01758"
        y="288.85486"
        id="text4907"><tspan
          sodipodi:role="line"
          id="tspan4905"
-         x="128.23038"
+         x="125.01758"
          y="288.85486"
          style="font-style:italic;fill:#6e6e6e;fill-opacity:1;stroke-width:0.09847123">Cooking desserts</tspan></text>
   </g>
