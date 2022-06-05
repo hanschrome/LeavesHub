@@ -2,6 +2,8 @@
 
 Documentation project of LeavesHub
 
+![Forests explained](https://github.com/hanschrome/LeavesHub/raw/main/docs/forest/media/Schema.png)
+
 ## What is LeavesHub
 
 LeavesHub is a platform to manage and structure *content*.
