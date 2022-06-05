@@ -1,17 +1,41 @@
-# Welcome to MkDocs
+# LeavesHub - Forests of knowledge
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+LeavesHub documentation.
 
-## Commands
+## What is Leaves Hub
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+LeavesHub is a platform to manage and structure *content*.
 
-## Project layout
+To do so, the content is structured from **Leaves**, that usually is a short content or a link. So users can share between
+ them different Leaves. A Leave is just a unit of content. For example, a YouTube video of muffin recipe.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+To organize Leaves, there are **Branches**. A Branch is a thing that typically you can do, and they typically start by
+ a verb. A synonym of Branch, could be Skill. For example, "Cook muffins".
+
+To organize Branches, there are **Trees**. A Tree is a set of rules or norms whose compliance consistently leads to a
+ certain result. A synonym of Tree, would be Discipline. For example, "Cooking desserts".
+
+To organize Trees, there are **Forests**. A Forest is the space and set of things in which a person develops. A Synonym of
+ Forest, would be Ambit. For example, "Cooking".
+
+So a Forest is a collection of Trees, A Tree is a collection of Branches, and a Branch is a collection of Leaves.
+
+## Forest
+
+[Forest](/forest)
+
+## Tree
+
+[Tree](/forest/tree)
+
+## Branch
+
+[Branch](/forest/tree/branch)
+
+## Leave
+
+[Leave](/forest/tree/branch/leave)
+
+## User
+
+[User](/user)
