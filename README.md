@@ -1,3 +1,5 @@
+<img align="left" width="60" height="60" src="https://github.com/hanschrome/LeavesHub/raw/main/logo.png"/>
+
 # LeavesHub Documentation
 
 Documentation project of LeavesHub
