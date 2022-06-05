@@ -1,6 +1,10 @@
+<img align="left" width="30" height="60" src="https://github.com/hanschrome/LeavesHub/raw/main/logo.png"/>
+
 # LeavesHub - Forests of knowledge
 
 LeavesHub documentation.
+
+![Forests explained](https://github.com/hanschrome/LeavesHub/raw/main/docs/forest/media/Schema.png)
 
 ## What is Leaves Hub
 
