@@ -1,4 +1,4 @@
-<img align="left" width="60" height="60" src="https://github.com/hanschrome/LeavesHub/raw/main/logo.png"/>
+<img align="left" width="30" height="60" src="https://github.com/hanschrome/LeavesHub/raw/main/logo.png"/>
 
 # LeavesHub Documentation
 
