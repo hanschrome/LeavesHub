@@ -22,7 +22,7 @@ So a Forest is a collection of Trees, A Tree is a collection of Branches, and a 
 
 ## Getting started
 
-This is a documentation made with mkdocs. Install mkdocs and run $ make build && make run
+This is a documentation made with mkdocs and docker. Run $ make build && make run
 
 To further information, run $ make help
 
