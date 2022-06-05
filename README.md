@@ -1,6 +1,6 @@
 <img align="left" width="30" height="60" src="https://github.com/hanschrome/LeavesHub/raw/main/logo.png"/>
 
-# LeavesHub Documentation
+# [Documentation] LeavesHub - Forests of knowledge
 
 Documentation project of LeavesHub
 
