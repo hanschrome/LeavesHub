@@ -14,7 +14,7 @@ To do so, the content is structured from **Leaves**, that usually is a short con
 them different Leaves. A Leave is just a unit of content. For example, a YouTube video of muffin recipe.
 
 To organize Leaves, there are **Branches**. A Branch is a thing that typically you can do, and they typically start by
-a verb. A synonym of Branch, could be Skill. For example, "Cook muffins".
+a verb. A synonym of Branch, could be Skill. For example, "To cook muffins".
 
 To organize Branches, there are **Trees**. A Tree is a set of rules or norms whose compliance consistently leads to a
 certain result. A synonym of Tree, would be Discipline. For example, "Cooking desserts".
