@@ -2,6 +2,7 @@ help:
 	@echo ""
 	@echo "Make (action)"
 	@echo "	help	Displays this message"
+	@echo "	---------- DOCUMENTATION ----------"
 	@echo "	build	Create a new docker container"
 	@echo "	run	Runs the docker container"
 	@echo "	serve   Serves the web application in port 8000"
@@ -9,7 +10,8 @@ help:
 	@echo "	connect	Connect container to developer-net in case of need for other containers"
 	@echo "	kill	Kill mkdocs running container"
 	@echo "	destroy	Destroys mkdocs container"
-	@echo ""
+	@echo "	---------- Checkout repositories --"
+	@echo "	clone	Clones all respositories so allows you to have a quick start"
 build:
 	@echo "Building..."
 	docker build . -t mkdocs
@@ -29,3 +31,6 @@ kill:
 	docker kill mkdocs
 destroy:
 	docker rm mkdocs
+clone:
+	git clone git@github.com:hanschrome/LeavesHubWebApp.git
+
